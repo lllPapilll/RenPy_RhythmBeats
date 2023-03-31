@@ -14,79 +14,79 @@ translate english strings:
     ## Strings de los recursos base (Main.bruh)
 
     old "IDIOMA DE LA INTERFAZ"
-    new ""
+    new "МОВА ІНТЕРФЕЙСУ"
 
     old "Aceptar y continuar"
-    new ""
+    new "Прийняти та продовжити"
 
     old "VENTANA DE CONFIRMACIÓN"
-    new ""
+    new "ВІКНО ПІДТВЕРДЖЕННЯ"
 
     old "Sí"
-    new ""
+    new "Так"
 
     old "No"
-    new ""
+    new "Ні"
 
     old "Usa auriculares para una mejor experiencia."
-    new ""
+    new "Використовуйте навушники для кращого досвіду"
 
     old "ACTUALIZACIÓN GLOBAL NECESARIA"
-    new ""
+    new "ПОТРІБНО ГЛОБАЛЬНЕ ОНОВЛЕННЯ"
 
     old "La versión que tienes ({color=cf0}[config.version]{/color}) está descontinuada. Debes actualizar a la versión {color=cf0}[now_version]{/color} para continuar jugando."
-    new ""
+    new "Ваша версія ({color=cf0}[config.version]{/color}) припинена. Щоб продовжити гру, потрібно оновити до версії {color=cf0}[now_version]{/color}."
 
     old "Entra al repositorio de GitHub desde el botón acá abajo, y sigue las instrucciones para actualizar el juego."
-    new ""
+    new "Увійдіть у репозиторій GitHub за допомогою кнопки нижче та дотримуйтесь інструкцій, щоб оновити гру."
 
     old "Ir a GitHub"
-    new ""
+    new "Перейдіть на GitHub"
 
     old "Cerrar el juego"
-    new ""
+    new "Закрити гру"
 
     old "DESCARGA FINALIZADA"
-    new ""
+    new "ЗАВАНТАЖЕННЯ ЗАВЕРШЕНО"
 
     old "Los recursos de {color=cf0}Ren'Py RhythmBeats{/color} han sido descargados completamente."
-    new ""
+    new "Ресурси {color=cf0}Ren'Py RhythmBeats{/color} завантажено повністю."
 
     old "El juego debe cerrarse y volver a iniciar para aplicar los cambios. Presiona {color=cf0}\"Cerrar el juego\"{/color} para continuar."
-    new ""
+    new "Для застосування змін гру потрібно закрити та перезапустити. Натисніть {color=cf0}\"Закрити гру\"{/color}, щоб продовжити."
 
     old "Presiona \"Reiniciar el juego\" para aplicar los cambios de los archivos descargados."
-    new ""
+    new "Натисніть \"Перезапустити гру\", щоб застосувати зміни до завантажених файлів."
 
     old "Reiniciar el juego"
-    new ""
+    new "Перезапустіть гру"
 
     old "ERROR DE CONEXIÓN"
-    new ""
+    new "ПОМИЛКА З'ЄДНАННЯ"
 
     old "Reintentar"
-    new ""
+    new "Повторити спробу"
 
     old "CONFIRMACIÓN DE DESCARGA"
-    new ""
+    new "ПІДТВЕРДЖЕННЯ ЗАВАНТАЖЕННЯ"
 
     old "Tamaño de la descarga: %.02f MB"
-    new ""
+    new "Розмір завантаження: %,02f МБ"
 
     old "Esta descarga contiene las pistas musicales y 2DMVs incluidos en la demostración de {color=CF0}Ren'Py RhythmBeats!{/color}."
-    new ""
+    new "Це завантаження містить музичні композиції та 2DMV, включені в демо-версію {color=CF0}Ren'Py RhythmBeats!{/color}."
 
     old "La velocidad de descarga puede variar en función del tráfico en GitHub, o de la estabilidad de tu conexión."
-    new ""
+    new "Швидкість завантаження може відрізнятися залежно від трафіку на GitHub або стабільності вашого з’єднання."
 
     old "Iniciar descarga"
-    new ""
+    new "Почати завантаження"
 
     old "Buscando actualizaciones (GitHub)..."
-    new ""
+    new "Перевірка оновлень (GitHub)..."
 
     old "ERROR DURANTE LA DESCARGA"
-    new ""
+    new "ПОМИЛКА ПІД ЧАС ЗАВАНТАЖЕННЯ"
 
     old "Descargando recursos..."
-    new ""
+    new "Завантаження ресурсів..."
